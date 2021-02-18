@@ -5,7 +5,7 @@ The goal of this project is to create a graphic program for property owners usin
 
 * Manage users, both business executives and regular users.
 
-* Covering villa and apartment properties with their features such as area, number of rooms, address, house photo and base price.
+* Covering villa and apartment properties with their features such as area, number of rooms, address, house photo and base price, etc.
 
 * Possibility of selling or renting a house.
 
