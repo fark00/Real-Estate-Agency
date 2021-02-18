@@ -11,7 +11,7 @@ The goal of this project is to create a graphic program for property owners usin
 
 * Business managers and ordinary users can add their desired property to this program, and business managers can also view the list of properties in the system.
 
-* Ability to categorize properties in various ways. (based on area, number of rooms, villa or apartment, price, etc.)
+* Ability to categorize and search for properties in various ways. (based on area, number of rooms, villa or apartment, price, etc.)
 
 # Support:
 
