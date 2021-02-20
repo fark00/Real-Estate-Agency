@@ -1,5 +1,7 @@
 # Real-Estate-Agency-AP
 The goal of this project is to create a graphic program for property owners using **C++** and **QT**.
+This project was done as a team by me and @REYHAN.
+
 
 # Features of this program:
 
