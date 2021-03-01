@@ -19,6 +19,16 @@ This project was done as a team by me and [@ReyhanehAbtahi](https://github.com/R
 
 **Contact me @:**
 
-e-mail: farzanehkoohestani2000@gmail.com
+e-mail: 
 
-telegram id: @farzaneh_koohestani
+* farzanehkoohestani2000@gmail.com
+
+telegram id: 
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+
+## License
+[MIT](https://github.com/fark00/Real-Estate-Agency-AP/blob/main/LICENSE)
+&#0169;
+[Farzaneh Koohestani](https://github.com/fark00)
