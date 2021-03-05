@@ -15,7 +15,11 @@ This project was done as a team by me and [@ReyhanehAbtahi](https://github.com/R
 
 * Ability to categorize and search for properties in various ways. (based on area, number of rooms, villa or apartment, price, etc.)
 
-# Support:
+## Requirements
+
+* I used Visual Studio 2019 and QT
+
+## Support:
 
 **Contact me @:**
 
