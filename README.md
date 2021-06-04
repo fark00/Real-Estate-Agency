@@ -19,20 +19,20 @@ This project was done as a team by me and [@ReyhanehAbtahi](https://github.com/R
 
 * I used Visual Studio 2019 and QT
 
-## Support:
+
+## Support
 
 **Contact me @:**
 
-e-mail: 
+e-mail:
 
 * farzanehkoohestani2000@gmail.com
 
-telegram id: 
+Telegram id:
 
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
-
 ## License
-[MIT](https://github.com/fark00/Real-Estate-Agency-AP/blob/main/LICENSE)
-&#0169;
-[Farzaneh Koohestani](https://github.com/fark00)
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
